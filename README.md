@@ -24,6 +24,12 @@ Welcome to my digital repository of certifications, internship letters, and acad
 - **Techffairs 2K23 State-Level Quiz**  
   Organized by: Jaywant College of Engineering & Polytechnic
 
+- **HISET-2024 International Conference**  
+  *International Conference on Healthcare Innovations, Software and Engineering Technologies*  
+  Organized by: Krishna Vishwa Vidyapeeth, in association with IEEE and MIRAM Foundation  
+  **Date:** 18th–19th January 2024  
+  **Theme:** *"Innovations Shaping Future Healthcare"*
+
 ---
 
 ## 🔍 About This Repo
